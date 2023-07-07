@@ -21,7 +21,7 @@ npm run build
 - I have used proxy `http://127.0.0.1` for axios in package.json
 - You can set axios.defaults.baseURL = `https://api.example.com` Globally
 
-## Backend( Django )
+## Backend
 
 #### Installing
 
